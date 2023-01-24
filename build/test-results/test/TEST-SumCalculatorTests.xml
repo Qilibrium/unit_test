@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SumCalculatorTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-05T18:34:29" hostname="DESKTOP-7R9V3IV" time="0.018">
-  <properties/>
-  <testcase name="testSum3InputHandledCorrectly()" classname="SumCalculatorTests" time="0.013"/>
-  <testcase name="testThat0InputHandledCorrectly()" classname="SumCalculatorTests" time="0.002"/>
-  <testcase name="testSum1InputHandledCorrectly()" classname="SumCalculatorTests" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
