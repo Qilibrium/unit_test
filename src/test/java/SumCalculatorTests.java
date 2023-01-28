@@ -27,6 +27,7 @@ public class SumCalculatorTests {
         //Then
         int expected = 6;
         Assertions.assertEquals(expected, actual);
+
     }
     @Test
     public void testThat0InputHandledCorrectly() {
