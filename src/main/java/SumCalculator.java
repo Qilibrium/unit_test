@@ -6,7 +6,7 @@ public class SumCalculator {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("PUT IN THE NUMBER:");
-        System.out.println("SUM OF NUMBERS = " + new SumCalculator().sum(scanner.nextInt()));
+        System.out.println("SUM OF  NUMBERS = " + new SumCalculator().sum(scanner.nextInt()));
 
     }
 
